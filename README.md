@@ -1,16 +1,11 @@
-# tfg_project
+# Images Social Network App
 
-TFG project
+Proyecto realizado para TFG, consistente en una aplicación móvil desarrollada en Dart a través del framework Flutter. La aplicación se trata de una red social basada en la publicación y la edición de imágenes.
 
-## Getting Started
+## Ejecución del proyecto
 
-This project is a starting point for a Flutter application.
+Tras descargar el repositorio, podremos ejecutarlo en Android Studio siguiendo los siguientes pasos:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
