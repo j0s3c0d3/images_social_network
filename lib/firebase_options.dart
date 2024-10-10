@@ -59,4 +59,5 @@ class DefaultFirebaseOptions {
     projectId: 'proyecto-tfg-8868e',
     storageBucket: 'proyecto-tfg-8868e.appspot.com',
   );
+
 }
