@@ -2,13 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
-import 'package:tfg_project/services/example_service.dart';
+import 'package:tfg_project/repository/example_repository.dart';
 
 import '../model/app_model.dart';
 import '../model/user_model.dart';
-import '../services/notification_service.dart';
-import '../services/user_service.dart';
-import 'package:tfg_project/services/image_service.dart';
+import '../repository/notification_repository.dart';
+import '../repository/user_repository.dart';
+import 'package:tfg_project/repository/image_repository.dart';
 
 BuildContext? _mainContext;
 void init(BuildContext c) => _mainContext = c;
@@ -18,10 +18,10 @@ class BaseController {
   UserModel get userModel => _mainContext?.read() ?? UserModel();
   AppModel get appModel => _mainContext?.read() ?? AppModel();
 
-  UserService get userService => _mainContext?.read() ?? UserService();
-  ImageService get imageService => _mainContext?.read() ?? ImageService();
-  NotificationService get notificationService => _mainContext?.read() ?? NotificationService();
-  ExampleService get exampleService => _mainContext?.read() ?? ExampleService();
+  UserRepository get userService => _mainContext?.read() ?? UserRepository();
+  ImageRepository get imageService => _mainContext?.read() ?? ImageRepository();
+  NotificationRepository get notificationService => _mainContext?.read() ?? NotificationRepository();
+  ExampleRepository get exampleService => _mainContext?.read() ?? ExampleRepository();
 
   final Future<SharedPreferences> sharedPrefs = SharedPreferences.getInstance();
   final storage = const FlutterSecureStorage();

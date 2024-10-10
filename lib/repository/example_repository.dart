@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 import 'package:tfg_project/model/example_model.dart';
 import 'package:tfg_project/util/order_enum.dart';
 
-class ExampleService {
+class ExampleRepository {
 
   Future<dynamic> _getMethod(String url) async {
     Dio dio = Dio();

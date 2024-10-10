@@ -5,14 +5,14 @@ import 'dart:async';
 import 'package:provider/provider.dart';
 
 import 'package:firebase_core/firebase_core.dart';
-import 'package:tfg_project/services/image_service.dart';
-import 'package:tfg_project/services/notification_service.dart';
+import 'package:tfg_project/repository/image_repository.dart';
+import 'package:tfg_project/repository/notification_repository.dart';
 import 'package:tfg_project/view/editor/editor.dart';
 import 'firebase_options.dart';
 
 import 'package:tfg_project/model/app_model.dart';
 import 'package:tfg_project/model/user_model.dart';
-import 'package:tfg_project/services/user_service.dart';
+import 'package:tfg_project/repository/user_repository.dart';
 import 'package:tfg_project/view/authentication/login.dart';
 import 'package:tfg_project/view/home.dart';
 
@@ -45,9 +45,9 @@ class MyApp extends StatelessWidget {
         providers: [
           ChangeNotifierProvider(create: (c) => AppModel()),
           ChangeNotifierProvider(create: (c) => UserModel()),
-          Provider(create: (c) => UserService()),
-          Provider(create: (c) => ImageService()),
-          Provider(create: (c) => NotificationService())
+          Provider(create: (c) => UserRepository()),
+          Provider(create: (c) => ImageRepository()),
+          Provider(create: (c) => NotificationRepository())
         ],
         child: Builder(builder: (context) {
           controllers.init(context);

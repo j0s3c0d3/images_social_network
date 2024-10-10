@@ -1,19 +1,19 @@
 import 'package:firebase_storage/firebase_storage.dart';
-import 'package:tfg_project/services/user_service.dart';
+import 'package:tfg_project/repository/user_repository.dart';
 import 'package:tfg_project/util/privacity_enum.dart';
 import '../model/image_model.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 import '../model/user_model.dart';
-import 'notification_service.dart';
+import 'notification_repository.dart';
 
 
-class ImageService {
+class ImageRepository {
 
   final _db = FirebaseFirestore.instance;
   final FirebaseStorage _storage = FirebaseStorage.instance;
-  final UserService userService = UserService();
-  final NotificationService notificationService = NotificationService();
+  final UserRepository userService = UserRepository();
+  final NotificationRepository notificationService = NotificationRepository();
 
 
   Future<ImageWithUser?> uploadImage(ImageWithUser imageWithUser) async {

@@ -2,7 +2,7 @@ import 'package:tfg_project/model/notification_model.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 
-class NotificationService {
+class NotificationRepository {
 
   final _db = FirebaseFirestore.instance;
 

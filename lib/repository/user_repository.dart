@@ -1,17 +1,17 @@
 import 'dart:typed_data';
 import 'package:firebase_auth/firebase_auth.dart' as FireAuth;
 import 'package:firebase_storage/firebase_storage.dart';
-import 'package:tfg_project/services/notification_service.dart';
+import 'package:tfg_project/repository/notification_repository.dart';
 import '../model/user_model.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 
-class UserService {
+class UserRepository {
 
   final FireAuth.FirebaseAuth _auth = FireAuth.FirebaseAuth.instance;
   final _db = FirebaseFirestore.instance;
   final FirebaseStorage _storage = FirebaseStorage.instance;
-  final NotificationService notificationService = NotificationService();
+  final NotificationRepository notificationService = NotificationRepository();
 
   Future<User?> loginWithEmailAndPassword(String email, String password, bool isInitial) async {
     if (isInitial) {
