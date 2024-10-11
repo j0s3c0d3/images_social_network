@@ -7,6 +7,8 @@ Proyecto realizado para mi TFG, consistente en una aplicación móvil desarrolla
 - **android/**: Contiene configuraciones y archivos específicos para Android. No se han generado configuraciones para iOS o cualquier otro sistema operativo.
   
 - **assets/**: Almacena recursos estáticos, concretamente imágenes que utiliza la aplicación.
+
+- **capturasApp**: Aquí se encuentran capturas de pantalla de casos de uso reales de la aplicación. Estas capturas se muestran en el último apartado de este README.md.
   
 - **lib/**: Contiene el código fuente de la aplicación en **Dart**. Aquí se encuentra la lógica principal de la app y los componentes de la interfaz de usuario. La organización de las subcarpetas y los archivos contenidos en lib/ trata de hacer fácilmente identificables los distintos actores de la arquitectura MVC.
   
@@ -32,6 +34,43 @@ Tras descargar el repositorio, podremos ejecutarlo siguiendo los siguientes paso
 
 ## Muestra de la interfaz de la aplicación
 
+### Buscar usuarios seguidos
+![Buscar usuarios seguidos](./capturasApp/buscarUsuariosSeguidos.png)
 
+### Edición de una imagen
+![Edición de una imagen](./capturasApp/editarImagen.png)
+
+### Explorar
+![Explorar](./capturasApp/explorar.png)
+
+### Inicio de la app
+![Inicio de la app](./capturasApp/inicio.png)
+
+### Inicio de notificaciones
+![Inicio de notificaciones](./capturasApp/inicioNotificaciones.png)
+
+### Lista de amigos
+![Lista de amigos](./capturasApp/listaAmigos.png)
+
+### Lista de imágenes (vista grande)
+![Lista de imágenes grande](./capturasApp/listaImagenesGrande.png)
+
+### Listado de ejemplos
+![Listado de ejemplos](./capturasApp/listadoEjemplos.png)
+
+### Notificaciones nuevas
+![Notificaciones nuevas](./capturasApp/nuevasNotificaciones.png)
+
+### Perfil de un usuario seguido
+![Perfil de usuario seguido](./capturasApp/perfilAjenoSeguido.png)
+
+### Registro de usuario
+![Registro de usuario](./capturasApp/registro.png)
+
+### Selección de texto
+![Selección de texto](./capturasApp/seleccion%20texto.png)
+
+### Sin filtro
+![Sin filtro](./capturasApp/sinFiltro.png)
 
 
