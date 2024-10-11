@@ -12,7 +12,7 @@ Proyecto realizado para mi TFG, consistente en una aplicación móvil desarrolla
   
 - **test/**: Aunque para este proyecto no se han incluido tests, esta carpeta está destinada a incluir archivos de pruebas unitarias y de widgets para verificar la funcionalidad de la aplicación.
   
-- **Archivos importantes del directorio raíz**:
+- **Archivos destacables del directorio raíz**:
   - **memoria.pdf**: Documentación completa del trabajo realizado a lo largo de todo el desarrollo del TFG. Incluye la definición de todas las funcionalidades que aporta la app, el listado de tecnologías empleadas, la metodología de desarrollo aplicada, la arquitectura y los patrones de diseño software, y el manual de usuario. También se explica detalladamente la estructuración del proyecto en Android Studio, concretando el reparto de responsabilidades entre los distintos archivos y carpetas.
   - **pubspec.yaml**: Archivo de configuración del proyecto que gestiona dependencias y recursos.
 
