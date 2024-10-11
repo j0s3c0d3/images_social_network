@@ -17,9 +17,18 @@ Proyecto realizado para mi TFG, consistente en una aplicación móvil desarrolla
   - **pubspec.yaml**: Archivo de configuración del proyecto que gestiona dependencias y recursos.
 
 
-## Ejecución 
+## Ejecución en Android Studio
 
-Tras descargar el repositorio, podremos ejecutarlo en Android Studio siguiendo los siguientes pasos:
+Tras descargar el repositorio, podremos ejecutarlo siguiendo los siguientes pasos:
+
+1. Abrimos el proyecto en Android Studio como un proyecto Flutter.
+2. Ejecutamos desde la terminal y en el directorio raíz del proyecto el comando `flutter pub get` para obtener las dependencias necesarias para la ejecución de la aplicación.
+3. Finalmente, para ejecutar la aplicación en el simulador proporcionado por Android Studio, podemos seguir dos pasos:
+  - ***Opción A***: Ejecutar el comando `flutter run` desde la terminal y en el directorio raíz del proyecto.
+  - ***Opción B***: Desde el Device Manager de Android Studio encender el simulador que deseemos y, posteriormente, pulsar sobre el icono de "ejecutar" del IDE.
+
+
+## Muestra de la interfaz de la aplicación
 
 
 
