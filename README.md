@@ -24,7 +24,9 @@ Tras descargar el repositorio, podremos ejecutarlo siguiendo los siguientes paso
 1. Abrimos el proyecto en Android Studio como un proyecto Flutter.
 2. Ejecutamos desde la terminal y en el directorio raíz del proyecto el comando `flutter pub get` para obtener las dependencias necesarias para la ejecución de la aplicación.
 3. Finalmente, para ejecutar la aplicación en el simulador proporcionado por Android Studio, podemos seguir dos pasos:
+
    3.1. ***Opción A***: Ejecutar el comando `flutter run` desde la terminal y en el directorio raíz del proyecto.
+
    3.2. ***Opción B***: Desde el Device Manager de Android Studio encender el simulador que deseemos y, posteriormente, pulsar sobre el icono de "ejecutar" del IDE.
 
 
