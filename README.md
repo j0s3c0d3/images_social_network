@@ -8,7 +8,7 @@ Proyecto realizado para mi TFG, consistente en una aplicación móvil desarrolla
   
 - **assets/**: Almacena recursos estáticos, concretamente imágenes que utiliza la aplicación.
 
-- **capturasApp**: Aquí se encuentran capturas de pantalla de casos de uso reales de la aplicación. Estas capturas se muestran en el último apartado de este README.md.
+- **capturasApp/**: Aquí se encuentran capturas de pantalla de casos de uso reales de la aplicación. Estas capturas se muestran en el último apartado de este README.md.
   
 - **lib/**: Contiene el código fuente de la aplicación en **Dart**. Aquí se encuentra la lógica principal de la app y los componentes de la interfaz de usuario. La organización de las subcarpetas y los archivos contenidos en lib/ trata de hacer fácilmente identificables los distintos actores de la arquitectura MVC.
   
