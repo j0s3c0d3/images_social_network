@@ -35,42 +35,42 @@ Tras descargar el repositorio, podremos ejecutarlo siguiendo los siguientes paso
 ## Muestra de la interfaz de la aplicación
 
 ### Buscar usuarios seguidos
-![Buscar usuarios seguidos](./capturasApp/buscarUsuariosSeguidos.png)
+<img src="./capturasApp/buscarUsuariosSeguidos.png" alt="Buscar usuarios seguidos" width="300"/>
 
 ### Edición de una imagen
-![Edición de una imagen](./capturasApp/editarImagen.png)
+<img src="./capturasApp/editarImagen.png" alt="Edición de una imagen" width="300"/>
 
 ### Explorar
-![Explorar](./capturasApp/explorar.png)
+<img src="./capturasApp/explorar.png" alt="Explorar" width="300"/>
 
 ### Inicio de la app
-![Inicio de la app](./capturasApp/inicio.png)
+<img src="./capturasApp/inicio.png" alt="Inicio de la app" width="300"/>
 
 ### Inicio de notificaciones
-![Inicio de notificaciones](./capturasApp/inicioNotificaciones.png)
+<img src="./capturasApp/inicioNotificaciones.png" alt="Inicio de notificaciones" width="300"/>
 
 ### Lista de amigos
-![Lista de amigos](./capturasApp/listaAmigos.png)
+<img src="./capturasApp/listaAmigos.png" alt="Lista de amigos" width="300"/>
 
 ### Lista de imágenes (vista grande)
-![Lista de imágenes grande](./capturasApp/listaImagenesGrande.png)
+<img src="./capturasApp/listaImagenesGrande.png" alt="Lista de imágenes grande" width="300"/>
 
 ### Listado de ejemplos
-![Listado de ejemplos](./capturasApp/listadoEjemplos.png)
+<img src="./capturasApp/listadoEjemplos.png" alt="Listado de ejemplos" width="300"/>
 
 ### Notificaciones nuevas
-![Notificaciones nuevas](./capturasApp/nuevasNotificaciones.png)
+<img src="./capturasApp/nuevasNotificaciones.png" alt="Notificaciones nuevas" width="300"/>
 
 ### Perfil de un usuario seguido
-![Perfil de usuario seguido](./capturasApp/perfilAjenoSeguido.png)
+<img src="./capturasApp/perfilAjenoSeguido.png" alt="Perfil de usuario seguido" width="300"/>
 
 ### Registro de usuario
-![Registro de usuario](./capturasApp/registro.png)
+<img src="./capturasApp/registro.png" alt="Registro de usuario" width="300"/>
 
 ### Selección de texto
-![Selección de texto](./capturasApp/seleccion%20texto.png)
+<img src="./capturasApp/seleccion%20texto.png" alt="Selección de texto" width="300"/>
 
 ### Sin filtro
-![Sin filtro](./capturasApp/sinFiltro.png)
+<img src="./capturasApp/sinFiltro.png" alt="Sin filtro" width="300"/>
 
 
