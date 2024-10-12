@@ -40,68 +40,93 @@ Tras descargar el repositorio, podremos ejecutarlo siguiendo los siguientes paso
 
 ## Muestra de la interfaz de la aplicación
 
-### Registro de usuario
-
+<p align="center">
+  <strong>Registro de usuario</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/registro.png" alt="Registro de usuario" width="300"/>
 </p>
 
-### Explorar
+<p align="center">
+  <strong>Explorar</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/explorar.png" alt="Explorar" width="300"/>
 </p>
 
-### Buscar usuarios seguidos
+<p align="center">
+  <strong>Buscar usuarios seguidos</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/buscarUsuariosSeguidos.png" alt="Buscar usuarios seguidos" width="300"/>
 </p>
 
-### Listado de ejemplos
+<p align="center">
+  <strong>Listado de ejemplos</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/listadoEjemplos.png" alt="Listado de ejemplos" width="300"/>
 </p>
 
-### Editor
+<p align="center">
+  <strong>Editor</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/inicio.png" alt="Inicio de la app" width="300"/>
 </p>
 
-### Aplicación de filtros a imagen
+<p align="center">
+  <strong>Aplicación de filtros a imagen</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/sinFiltro.png" alt="Sin filtro" width="300"/>
 </p>
 
-### Adición de textos a imagen
+<p align="center">
+  <strong>Adición de textos a imagen</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/seleccion%20texto.png" alt="Selección de texto" width="300"/>
 </p>
 
-### Perfil de usuario propio
+<p align="center">
+  <strong>Perfil de usuario propio</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/inicioNotificaciones.png" alt="Inicio de notificaciones" width="300"/>
 </p>
 
-### Perfil de otro usuario
+<p align="center">
+  <strong>Perfil de otro usuario</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/perfilAjenoSeguido.png" alt="Perfil de usuario seguido" width="300"/>
 </p>
 
-### Vista grande del listado de imágenes de un perfil
+<p align="center">
+  <strong>Vista grande del listado de imágenes de un perfil</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/listaImagenesGrande.png" alt="Lista de imágenes grande" width="300"/>
 </p>
 
-### Edición de una publicación
+<p align="center">
+  <strong>Edición de una publicación</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/editarImagen.png" alt="Edición de una imagen" width="300"/>
 </p>
 
-### Lista de amigos
+<p align="center">
+  <strong>Lista de amigos</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/listaAmigos.png" alt="Lista de amigos" width="300"/>
 </p>
 
-### Notificaciones nuevas
+<p align="center">
+  <strong>Notificaciones nuevas</strong>
+</p>
 <p align="center">
     <img src="./capturasApp/nuevasNotificaciones.png" alt="Notificaciones nuevas" width="300"/>
 </p>
