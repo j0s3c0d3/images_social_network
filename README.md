@@ -41,66 +41,67 @@ Tras descargar el repositorio, podremos ejecutarlo siguiendo los siguientes paso
 ## Muestra de la interfaz de la aplicación
 
 ### Registro de usuario
-<div style="text-align: center;">
+
+<p align="center">
     <img src="./capturasApp/registro.png" alt="Registro de usuario" width="300"/>
-</div>
+</p>
 
 ### Explorar
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/explorar.png" alt="Explorar" width="300"/>
-</div>
+</p>
 
 ### Buscar usuarios seguidos
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/buscarUsuariosSeguidos.png" alt="Buscar usuarios seguidos" width="300"/>
-</div>
+</p>
 
 ### Listado de ejemplos
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/listadoEjemplos.png" alt="Listado de ejemplos" width="300"/>
-</div>
+</p>
 
 ### Editor
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/inicio.png" alt="Inicio de la app" width="300"/>
-</div>
-
-### Adición de textos a imagen
-<div style="text-align: center;">
-    <img src="./capturasApp/seleccion%20texto.png" alt="Selección de texto" width="300"/>
-</div>
+</p>
 
 ### Aplicación de filtros a imagen
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/sinFiltro.png" alt="Sin filtro" width="300"/>
-</div>
+</p>
+
+### Adición de textos a imagen
+<p align="center">
+    <img src="./capturasApp/seleccion%20texto.png" alt="Selección de texto" width="300"/>
+</p>
 
 ### Perfil de usuario propio
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/inicioNotificaciones.png" alt="Inicio de notificaciones" width="300"/>
-</div>
+</p>
 
 ### Perfil de otro usuario
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/perfilAjenoSeguido.png" alt="Perfil de usuario seguido" width="300"/>
-</div>
+</p>
 
 ### Vista grande del listado de imágenes de un perfil
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/listaImagenesGrande.png" alt="Lista de imágenes grande" width="300"/>
-</div>
+</p>
 
 ### Edición de una publicación
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/editarImagen.png" alt="Edición de una imagen" width="300"/>
-</div>
+</p>
 
 ### Lista de amigos
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/listaAmigos.png" alt="Lista de amigos" width="300"/>
-</div>
+</p>
 
 ### Notificaciones nuevas
-<div style="text-align: center;">
+<p align="center">
     <img src="./capturasApp/nuevasNotificaciones.png" alt="Notificaciones nuevas" width="300"/>
-</div>
+</p>
