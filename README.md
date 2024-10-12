@@ -2,6 +2,8 @@
 
 Proyecto realizado para mi TFG, consistente en una aplicación móvil desarrollada en Dart a través del framework Flutter. La aplicación se trata de una red social basada en la publicación y la edición de imágenes.
 
+
+
 ## Organización del proyecto
 
 - **android/**: Contiene configuraciones y archivos específicos para Android. No se han generado configuraciones para iOS o cualquier otro sistema operativo.
@@ -19,6 +21,8 @@ Proyecto realizado para mi TFG, consistente en una aplicación móvil desarrolla
   - **pubspec.yaml**: Archivo de configuración del proyecto que gestiona dependencias y recursos.
 
 
+
+
 ## Ejecución en Android Studio
 
 Tras descargar el repositorio, podremos ejecutarlo siguiendo los siguientes pasos:
@@ -32,45 +36,71 @@ Tras descargar el repositorio, podremos ejecutarlo siguiendo los siguientes paso
    3.2. ***Opción B***: Desde el Device Manager de Android Studio encender el simulador que deseemos y, posteriormente, pulsar sobre el icono de "ejecutar" del IDE.
 
 
+
+
 ## Muestra de la interfaz de la aplicación
 
-### Buscar usuarios seguidos
-<img src="./capturasApp/buscarUsuariosSeguidos.png" alt="Buscar usuarios seguidos" width="300"/>
-
-### Edición de una imagen
-<img src="./capturasApp/editarImagen.png" alt="Edición de una imagen" width="300"/>
+### Registro de usuario
+<div style="text-align: center;">
+    <img src="./capturasApp/registro.png" alt="Registro de usuario" width="300"/>
+</div>
 
 ### Explorar
-<img src="./capturasApp/explorar.png" alt="Explorar" width="300"/>
+<div style="text-align: center;">
+    <img src="./capturasApp/explorar.png" alt="Explorar" width="300"/>
+</div>
 
-### Inicio de la app
-<img src="./capturasApp/inicio.png" alt="Inicio de la app" width="300"/>
-
-### Inicio de notificaciones
-<img src="./capturasApp/inicioNotificaciones.png" alt="Inicio de notificaciones" width="300"/>
-
-### Lista de amigos
-<img src="./capturasApp/listaAmigos.png" alt="Lista de amigos" width="300"/>
-
-### Lista de imágenes (vista grande)
-<img src="./capturasApp/listaImagenesGrande.png" alt="Lista de imágenes grande" width="300"/>
+### Buscar usuarios seguidos
+<div style="text-align: center;">
+    <img src="./capturasApp/buscarUsuariosSeguidos.png" alt="Buscar usuarios seguidos" width="300"/>
+</div>
 
 ### Listado de ejemplos
-<img src="./capturasApp/listadoEjemplos.png" alt="Listado de ejemplos" width="300"/>
+<div style="text-align: center;">
+    <img src="./capturasApp/listadoEjemplos.png" alt="Listado de ejemplos" width="300"/>
+</div>
+
+### Editor
+<div style="text-align: center;">
+    <img src="./capturasApp/inicio.png" alt="Inicio de la app" width="300"/>
+</div>
+
+### Adición de textos a imagen
+<div style="text-align: center;">
+    <img src="./capturasApp/seleccion%20texto.png" alt="Selección de texto" width="300"/>
+</div>
+
+### Aplicación de filtros a imagen
+<div style="text-align: center;">
+    <img src="./capturasApp/sinFiltro.png" alt="Sin filtro" width="300"/>
+</div>
+
+### Perfil de usuario propio
+<div style="text-align: center;">
+    <img src="./capturasApp/inicioNotificaciones.png" alt="Inicio de notificaciones" width="300"/>
+</div>
+
+### Perfil de otro usuario
+<div style="text-align: center;">
+    <img src="./capturasApp/perfilAjenoSeguido.png" alt="Perfil de usuario seguido" width="300"/>
+</div>
+
+### Vista grande del listado de imágenes de un perfil
+<div style="text-align: center;">
+    <img src="./capturasApp/listaImagenesGrande.png" alt="Lista de imágenes grande" width="300"/>
+</div>
+
+### Edición de una publicación
+<div style="text-align: center;">
+    <img src="./capturasApp/editarImagen.png" alt="Edición de una imagen" width="300"/>
+</div>
+
+### Lista de amigos
+<div style="text-align: center;">
+    <img src="./capturasApp/listaAmigos.png" alt="Lista de amigos" width="300"/>
+</div>
 
 ### Notificaciones nuevas
-<img src="./capturasApp/nuevasNotificaciones.png" alt="Notificaciones nuevas" width="300"/>
-
-### Perfil de un usuario seguido
-<img src="./capturasApp/perfilAjenoSeguido.png" alt="Perfil de usuario seguido" width="300"/>
-
-### Registro de usuario
-<img src="./capturasApp/registro.png" alt="Registro de usuario" width="300"/>
-
-### Selección de texto
-<img src="./capturasApp/seleccion%20texto.png" alt="Selección de texto" width="300"/>
-
-### Sin filtro
-<img src="./capturasApp/sinFiltro.png" alt="Sin filtro" width="300"/>
-
-
+<div style="text-align: center;">
+    <img src="./capturasApp/nuevasNotificaciones.png" alt="Notificaciones nuevas" width="300"/>
+</div>
